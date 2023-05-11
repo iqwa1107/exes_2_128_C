@@ -11,7 +11,7 @@ void input()
 	{
 		cout << " Enter The Number of element in The arry: ";
 		cin >> n;
-		if ((n > 0) && (n <= 10))
+		if ((n > 0) && (n <= 20))
 			break;
 		else
 
